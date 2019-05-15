@@ -47,9 +47,10 @@ see:
 
 #### Languages  
 - fr-FR  France French
-- de-DE  Germany German  
-- en-US  United States English  
-- es-ES  Spain Spanish  
+- de-DE  Germany German
+- en-US  United States English
+- es-ES  Spain Spanish
+- it-IT  Italy Italian
   
 ## Contributing to the Project
 If you want to help make this better, please feel free to fork and make edits. Submit a pull request back to 
